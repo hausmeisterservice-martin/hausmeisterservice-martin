@@ -7,13 +7,13 @@ contact_one:
     heading: "Expanded Gardening <br> Services Fits All needs!"
     description: "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms "
     number:
-      label: "(002) 012612457"
-      url: "+002012612457"
+      label: "(0157) 57343121"
+      url: "+0015757343121"
     email:
-      label: "landi@gmail.com"
-      url: "landi@gmail.com"
-    location: "Location: Uposhohor - 6202, Rajshahi, Bangladesh"
-    open_hours: "Mon - Fri: 8:00 am - 7:00 pm"
+      label: "kontakt@hausmeisterservice-martin-altenkirchen.de"
+      url: "kontakt@hausmeisterservice-martin-altenkirchen.de"
+    location: "Büro: Dorfstraße 18a - 57539 Bruchertseifen"
+    open_hours: "Mo - Fr: 8:00-17:00 | Sa: 08:00-16:00"
   social:
     - label: "Facebook"
       url: "https://fb.com"

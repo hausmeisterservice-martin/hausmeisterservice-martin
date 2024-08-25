@@ -10,11 +10,11 @@
                     <div class="header-info">
                         <ul>
                             <li>
-                                <i class="fas fa-phone-alt"></i> Call on :
+                                <i class="fas fa-phone-alt"></i> Hotline :
                                 <a href="tel:{{ header_top.number.url }}">{{ header_top.number.label }}</a>
                             </li>
                             <li>
-                                <i class="fas fa-clock"></i>Open Hours : {{ header_top.open_hour }}
+                                <i class="fas fa-clock"></i>Öffnungszeiten : {{ header_top.open_hour }}
                             </li>
                         </ul>
                     </div>
@@ -22,7 +22,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                     <div class="header-social text-center text-xl-end text-lg-end">
                         {% for social in header_top.social %}
-                        <a href="{{ social.url }}">{{ social.label }}</a>
+                        <!-- <a href="{{ social.url }}">{{ social.label }}</a> -->
                         {% endfor %}
                     </div>
                 </div>

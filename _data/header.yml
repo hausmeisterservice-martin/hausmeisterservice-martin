@@ -1,8 +1,8 @@
 header_top:
   number:
-    label: "(+021) 157 489"
-    url: "+021157489"
-  open_hour: "Mon-Fri 08:00 - 15:00" 
+    label: "(+49) 15757343121"
+    url: "+015757343121"
+  open_hour: "Mo-Fr 08:00-17:00 | Sa 08:00-16:00" 
   social:
     - label: "Facebook"
       url: "https://fb.com"
@@ -87,8 +87,8 @@ navigation:
 
 button:
   button_one:
-    label: "Get a Quote"
+    label: "Angebot einholen"
     url: "/contact"
   button_two:
-    label: "+88 015848651"
+    label: "+49 15757343121"
     url: "+88015848651"
