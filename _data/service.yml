@@ -52,9 +52,9 @@ service_one:
       link: "/service-details"
   service7:
     heading: "Wir bieten umfassende Dienstleistungen rund um <span> Technik, Pflege und Reparaturen</span>"
-    description: "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat omnis voluptas assumenda est, omnis dolor repellendus." 
+    description: "Wir bieten darüber hinaus weitere Leistungen an. Senden Sie uns eine Anfrage, und wir prüfen, wie wir Ihnen helfen können." 
     button:
-      label: "Appointment"
+      label: "Termin vereinbaren"
       link: "/contact"
 
 service_two:
@@ -62,7 +62,7 @@ service_two:
   subheading: "Services"
   heading: "Our Best Landscape Specialists"
   button:
-    label: "Appointment"
+    label: "Termin vereinbaren"
     link: "/contact"
   feature1:
     one: "These cases"

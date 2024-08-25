@@ -10,11 +10,5 @@ layout: default
 {% include service/service-one.html %}
 {% include about/about-one.html %}
 {% include service/service-two.html %}
-{% include fun-fact/fun-fact.html%}
-{% include project/project-one.html %}
-{% include why-choose-us/why-choose-us-one.html %}
-{% include testimonial/testimonial-one.html %}
 {% include appointment/appointment-one.html %}
-{% include work/how-it-work-one.html %}
-{% include blog/blog-one.html %}
 {% include common/footer-two.html %}
