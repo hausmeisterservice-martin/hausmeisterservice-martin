@@ -1,14 +1,14 @@
 about_one:
-  subheading: "Our Services"
-  heading: "We Are Right Landscape And Gardening Experts Since 2000"
+  subheading: "Landschafts- & Gartenpfalge"
+  heading: "Professioneller Gartenservice: Hecken schneiden, Laub beseitigen und Rasen mähen. Kontaktieren Sie uns!"
   button:
-    label: "Appointment"
+    label: "Termin buchen"
     link: "/contact"
   image1: 
-    image: "assets/images/about/1.jpg"
+    image: "assets/images/about/rasenmähen-martin-hausmeisterservice-altenkirchen.jpg"
     alt: "About Us"
   image2: 
-    image: "assets/images/about/2.jpg"
+    image: "assets/images/about/hecken-rueckschnitt-martin-hausmeisterservice.jpg"
     alt: "About Us"
 
 about_two:
