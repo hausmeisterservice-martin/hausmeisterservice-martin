@@ -1,12 +1,12 @@
 hero_one:
-  image1: "assets/images/hero.jpg"
+  image1: "assets/images/backgroundimage-hausmeisterservice-martin-altenkirchen-kopie.jpg"
   overlay_color: "black"
   opacity: 7
-  heading: "Welcome to Our Perfect Solution Landscape."
-  description: "We are certified company. We provide best Landscaping services for you & your company ."
+  heading: "Willkommen bei Hausmeisterservice Martin – Qualität und Service für Ihre Immobilie"
+  description: "Ihr Partner für erstklassige Immobilienpflege und umfassende Dienstleistungen rund um Technik, Pflege und Reparaturen in Altenkirchen und Umgebung."
   button:
-    label: "Our Solution"
-    link: "/content"
+    label: "Kontakt aufnehmen"
+    link: "/contact"
   image2: assets/images/hero/1.png
   alt: hero
   videolink: http://www.youtube.com/watch?v=0O2aH4XLbto

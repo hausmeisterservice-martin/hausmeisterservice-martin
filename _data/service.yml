@@ -1,7 +1,7 @@
 service_one:
   section:
-    heading: "Our Services"
-    description: "Why will you choose our <br> services?"
+    heading: "Unsere Leistungen"
+    description: "Warum Sie unsere Dienstleistungen <br> wählen sollten?"
   service1:
     icon: "assets/images/service/landscape.png"
     alt: "service icon"
