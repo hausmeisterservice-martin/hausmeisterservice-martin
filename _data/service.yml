@@ -5,53 +5,53 @@ service_one:
   service1:
     icon: "assets/images/service/landscape.png"
     alt: "service icon"
-    heading: "Landscape Design"
-    description: "There are many variations of passages the majority have suffered alteration form."
+    heading: "Haustechnik-Kontrolle"
+    description: "Regelmäßige Überprüfung Ihrer technischen Anlagen und Systeme."
     button:
       label: "Read More"
       link: "/service-details"
   service2:
     icon: "assets/images/service/growing.png"
     alt: "service icon"
-    heading: "Plant Growing"
-    description: "There are many variations of passages the majority have suffered alteration form."
+    heading: "Kleine Reparaturen"
+    description: "Schnelle und zuverlässige Durchführung von kleinen Reparaturen."
     button:
       label: "Read More"
       link: "/service-details"
   service3:
     icon: "assets/images/service/harvest.png"
     alt: "service icon"
-    heading: "Branch Cutting"
-    description: "There are many variations of passages the majority have suffered alteration form."
+    heading: "Betreuung der Mieter"
+    description: "Persönliche Betreuung und Unterstützung Ihrer Mieter vor Ort."
     button:
       label: "Read More"
       link: "/service-details"
   service4:
     icon: "assets/images/service/flower.png"
     alt: "service icon"
-    heading: "Flower Scaping"
-    description: "There are many variations of passages the majority have suffered alteration form."
+    heading: "Schlüsselnotdienst"
+    description: "24/7 Notdienst für schnelle Hilfe bei Schlüssel- und Schlossproblemen."
     button:
       label: "Read More"
       link: "/service-details"
   service5:
     icon: "assets/images/service/tree.png"
     alt: "service icon"
-    heading: "Tree Planting"
-    description: "There are many variations of passages the majority have suffered alteration form."
+    heading: "Müllentsorgung"
+    description: "Ordnungsgemäße und umweltfreundliche Entsorgung von Abfällen."
     button:
       label: "Read More"
       link: "/service-details"
   service6:
     icon: "assets/images/service/rubbish.png"
     alt: "service icon"
-    heading: "Rubbish Removal"
-    description: "There are many variations of passages the majority have suffered alteration form."
+    heading: "Renovierungsarbeiten"
+    description: "Professionelle Renovierung und Modernisierung Ihrer Immobilie."
     button:
       label: "Read More"
       link: "/service-details"
   service7:
-    heading: "We are professional <span>Landscape & Gardening service</span>"
+    heading: "Wir bieten umfassende Dienstleistungen rund um <span> Technik, Pflege und Reparaturen</span>"
     description: "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat omnis voluptas assumenda est, omnis dolor repellendus." 
     button:
       label: "Appointment"
