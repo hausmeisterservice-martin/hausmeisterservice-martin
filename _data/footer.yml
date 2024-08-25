@@ -71,12 +71,12 @@ footer_two:
   section:
     image: "assets/images/footer-1.png"
   column1:
-    heading: "About Landi"
-    description: "Landi HTML Template is build for Lawn, Landscaping, Garden Ground skeepers, Landscape, Gardening Shops, & other lawn and landscaping related services."
+    heading: "Über uns"
+    description: "Hausmeisterservice Martin Altenkirchen – Zuverlässige Betreuung Ihrer Immobilien. Wir bieten umfassende Dienstleistungen rund um Technik, Pflege und Reparaturen."
     number:
-      label: "(111) 0909 8787 666"
-      url: "+11109098787666"
-    social_label: "Follow Us:"
+      label: "(+49) 157 57343121"
+      url: "+015757343121"
+    social_label: "Folgen Sie uns:"
     social: 
       - icon: "fab fa-facebook-f"
         url: "https://fb.com"
@@ -89,66 +89,72 @@ footer_two:
       
       - icon: "fab fa-pinterest-p"
         url: "https://pinterest.com"
-    location: "House #253, 3rd Floor, Uposhohor 6202, Rajshahi, Bangladesh"
+    location: "Dorfstraße 18a - 57539 Bruchertseifen"
   column2:
-    heading: "Quick Links"
+    heading: "Schnellzugriff"
     menu: 
-      - label: "Contact Us"
+      - label: "Kontaktisieren Sie uns"
         url: "/contact"
 
-      - label: "Team"
-        url: "/team"
+      # - label: "Team"
+      #   url: "/team"
 
-      - label: "Our Services"
+      - label: "Unsere Leistungen"
         url: "/service-one"
 
-      - label: "Our Project"
-        url: "/project-one"
+      # - label: "Our Project"
+      #   url: "/project-one"
 
-      - label: "About Company"
+      - label: "Über uns"
         url: "/about"
 
-      - label: "News Update"
-        url: "/blog"
+      # - label: "News Update"
+      #   url: "/blog"
   column3:
-    heading: "Our Services"
+    heading: "Unsere Leistungen"
     menu: 
-      - label: "Landscaping"
+      - label: "Haustechnik-Kontrolle"
         url: "/service-details"
 
-      - label: "Plant Growing"
+      - label: "Kleine Reparaturen"
         url: "/service-details"
 
-      - label: "Branch Cutting"
+      - label: "Betreuung der Mieter"
         url: "/service-details"
 
-      - label: "Flower Scaping"
+      - label: "Türschlosswechsel"
         url: "/service-details"
 
-      - label: "Tree Planting"
+      - label: "Müllentsorgung"
         url: "/service-details"
 
-      - label: "Rubbish Removal"
+      - label: "Renovierungsarbeiten"
+        url: "/service-details"
+
+      - label: "Schlüsselnotdienst"
         url: "/service-details"
   column4:
-    heading: "Contact us"
-    description: "Established since 2000. Mission Eland Landscaping Company in US."
+    heading: "Kontaktieren Sie uns"
+    description: "Seit 2024 im Westerwald etabliert. Unsere Mission: Hausmeisterservice Martin Altenkirchen – Zuverlässige und umfassende Betreuung Ihrer Immobilien."
     number:
-      label: "+62 351 154874"
-      url: "+62351154874"
+      label: "+49 15757343121"
+      url: "+015757343121"
     email:
-      label: "landi@gmail.com"
-      url: "landi@gmail.com"
-    location: "House #253, 3rd Floor, Uposhohor 6202, Rajshahi, Bangladesh"
+      label: "kontakt@hausmeisterservice-martin-altenkirchen.de"
+      url: "kontakt@hausmeisterservice-martin-altenkirchen.de"
+    location: "Dorfstraße 18a - 57539 Bruchertseifen"
 
 footer_bottom:
-  copyright: "© 2022 Landi. All right reserved."
+  copyright: "© 2024 Martin Hausmeisterservice. Alle Rechte vorbehalten."
   menu: 
-    - label: "About Landi"
+    - label: "Über uns"
       url: "/about"
 
-    - label: "Careers"
-      url: "/contact"
+    # - label: "Careers"
+    #   url: "/contact"
 
-    - label: "Privacy Policy"
+    - label: "Datenschutz"
+      url: "/faq"
+
+    - label: "Impressum"
       url: "/faq"

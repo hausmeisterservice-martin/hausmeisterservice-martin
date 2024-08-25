@@ -17,4 +17,4 @@ layout: default
 {% include appointment/appointment-one.html %}
 {% include work/how-it-work-one.html %}
 {% include blog/blog-one.html %}
-{% include common/footer-one.html %}
+{% include common/footer-two.html %}
