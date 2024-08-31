@@ -1,11 +1,11 @@
 contact_one:
   section:
-    heading: "Need Our Service Or Have Queries"
-    description: "Send Us Message."
+    heading: "Benötigen Sie unseren Service oder haben Sie Fragen"
+    description: "Senden Sie uns eine Nachricht."
   column2:
-    subheading: "Gardening Excellence!"
-    heading: "Expanded Gardening <br> Services Fits All needs!"
-    description: "On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms "
+    subheading: "Hasumeisterservice Exzellenz!"
+    heading: "Hausmeisterservice <br> für ihre Bedürfnisse!"
+    description: "Wir sind während der angegebenen Öffnungszeiten unter den folgenden Kontaktdaten für Sie erreichbar. Unser Schlüsselnotdienst steht Ihnen 24/7 zur Verfügung. Für den Notdienst erreichen Sie uns mobil unter folgender Nummer."
     number:
       label: "(0157) 57343121"
       url: "+0015757343121"

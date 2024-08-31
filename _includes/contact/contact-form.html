@@ -12,11 +12,11 @@
                             <h2>{{ contact_one.section.description }}</h2>
                         </div>
                         <form action="{{ form.contact_form }}" method="POST">
-                            <input id="name" type="text" name="name" placeholder="Your Name">
-                            <input id="email" type="email" name="email" placeholder="Your Email">
-                            <input id="subject" type="text" name="subject" placeholder="Your Subject">
-                            <textarea id="message" name="message" placeholder="Write Message Here"></textarea>
-                            <button class="l-btn" type="submit">Send Message <i class="fas fa-arrow-right"></i></button>
+                            <input id="name" type="text" name="name" placeholder="Ihr Name">
+                            <input id="email" type="email" name="email" placeholder="Ihre Email">
+                            <input id="subject" type="text" name="subject" placeholder="Ihr Betreff ">
+                            <textarea id="message" name="message" placeholder="Schreiben Sie hier eine Nachricht"></textarea>
+                            <button class="l-btn" type="submit">Nachricht senden <i class="fas fa-arrow-right"></i></button>
                         </form>
                     </div>
                 </div>
@@ -26,8 +26,8 @@
                         <h3>{{ contact_one.column2.heading }}</h3>
                         <p>{{ contact_one.column2.description }}</p>
                         <ul class="mt-40">
-                            <li><i class="fas fa-headphones"></i><span>Emergency Line: <a href="tel:{{ contact_one.column2.number.url }}">{{ contact_one.column2.number.label }}</a></span></li>
-                            <li><i class="fas fa-envelope-open"></i><span>Your Email: <a href="mailto:{{ contact_one.column2.email.url }}">{{ contact_one.column2.email.label }}</a></span></li>
+                            <li><i class="fas fa-headphones"></i><span>Mobile: <a href="tel:{{ contact_one.column2.number.url }}">{{ contact_one.column2.number.label }}</a></span></li>
+                            <li><i class="fas fa-envelope-open"></i><span>Email: <a href="mailto:{{ contact_one.column2.email.url }}">{{ contact_one.column2.email.label }}</a></span></li>
                             <li><i class="fas fa-map-marker-alt"></i><span>{{ contact_one.column2.location }}</span></li>
                             <li><i class="fas fa-clock"></i><span>{{ contact_one.column2.open_hours }}</span></li>
                         </ul>
@@ -40,7 +40,7 @@
 <!-- Contact Form End -->
 
 <!-- Social BTN Start -->
-<div class="social-btn-area pb-110 wow fadeInUp" data-wow-delay=".3s">
+<!-- <div class="social-btn-area pb-110 wow fadeInUp" data-wow-delay=".3s">
     <div class="container custom-container-1">
         <div class="row">
             {% for social in contact_one.social %}
@@ -50,5 +50,5 @@
             {% endfor %}
         </div>
     </div>
-</div>
+</div> -->
 <!-- Social BTN End -->

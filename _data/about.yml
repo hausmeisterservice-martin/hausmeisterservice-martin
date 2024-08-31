@@ -6,10 +6,10 @@ about_one:
     link: "/contact"
   image1: 
     image: "assets/images/about/rasenmähen-martin-hausmeisterservice-altenkirchen.jpg"
-    alt: "About Us"
+    alt: "rasenmähen-martin-hausmeisterservice-altenkirchen"
   image2: 
     image: "assets/images/about/hecken-rueckschnitt-martin-hausmeisterservice.jpg"
-    alt: "About Us"
+    alt: "hecken-rueckschnitt-martin-hausmeisterservice"
 
 about_two:
   column1:
@@ -48,11 +48,11 @@ about_three:
 
 about_four:
   column1:
-    heading: "Why will you choose our <br> Garden and Landscape <br> services"
-    description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.
-                    <br> <br> The cites of the word in classical literature, discovered the undoubtable source. the Lorem Ipsum comes from sections."
+    heading: "Warum sollten Sie sich für uns entscheiden? Hausmeisterservices"
+    description: "Wählen Sie den Hausmeisterservice Martin Altenkirchen für professionelle Betreuung, individuelle Lösungen und schnellen 24/7 Schlüsselnotdienst. Als junges und ambitioniertes Unternehmen möchten wir unsere Kunden begeistern und ihr Vertrauen durch exzellenten Service gewinnen. Unsere Mission ist es, Ihre Immobilien zuverlässig zu betreuen und zu pflegen. Unsere Vision ist es, im Westerwald als führender Dienstleister für Hausmeisterservices anerkannt zu werden. Unser Ziel ist es, durch Qualität und Engagement eine langfristige Partnerschaft mit unseren Kunden aufzubauen. 
+                    <br> <br> Unsere umfassenden Leistungen garantieren eine gepflegte und sicher verwaltete Immobilie im Westerwald."
     button:
-      label: "appointment"
+      label: "Termin vereinbaren"
       url: "/contact"
   column2:
     image: "assets/images/hero/1.png"

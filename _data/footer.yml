@@ -99,7 +99,7 @@ footer_two:
       # - label: "Team"
       #   url: "/team"
 
-      - label: "Unsere Leistungen"
+      - label: "Leistungen"
         url: "/service-one"
 
       # - label: "Our Project"
@@ -111,7 +111,7 @@ footer_two:
       # - label: "News Update"
       #   url: "/blog"
   column3:
-    heading: "Unsere Leistungen"
+    heading: "Leistungen"
     menu: 
       - label: "Haustechnik-Kontrolle"
         url: "/service-details"
@@ -135,7 +135,7 @@ footer_two:
         url: "/service-details"
   column4:
     heading: "Kontaktieren Sie uns"
-    description: "Seit 2024 im Westerwald etabliert. Unsere Mission: Hausmeisterservice Martin Altenkirchen – Zuverlässige und umfassende Betreuung Ihrer Immobilien."
+    description: "Neu seit 2024 im Westerwald – Unsere Mission: Hausmeisterservice Martin Altenkirchen – Zuverlässige und umfassende Betreuung Ihrer Immobilien."
     number:
       label: "+49 15757343121"
       url: "+015757343121"
@@ -154,7 +154,7 @@ footer_bottom:
     #   url: "/contact"
 
     - label: "Datenschutz"
-      url: "/faq"
+      url: "/impressum"
 
     - label: "Impressum"
-      url: "/faq"
+      url: "/about"
