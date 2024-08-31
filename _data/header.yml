@@ -14,75 +14,18 @@ header_top:
       url: "https://instagram.com"
 
 logo:
-    image: "assets/images/logo.png"
-    alt: "Logo"
+    image: "assets/images/hausmeisterservice-martin-altenkirchen-logo.png"
+    alt: "hausmeisterservice-martin-altenkirchen-logo"
     url: "/"
 
 navigation:
-  - label: "Home"
+  - label: "Startseite"
     url: "/"
-    submenu:
-      - label: "Home 1"
-        url: "/"
-
-      - label: "Home 2"
-        url: "/home-two"
-
-      - label: "Home 3"
-        url: "/home-three"
   
-  - label: "About"
+  - label: "Über uns"
     url: "/about"
 
-  - label: "Services"
-    url: "#"
-    submenu:
-      - label: "Service 1"
-        url: "/service-one"
-
-      - label: "Service 2"
-        url: "/service-two"
-
-      - label: "Service Details"
-        url: "/service-details"
-
-  - label: "Page"
-    url: "#"
-    submenu:
-      - label: "Project 1"
-        url: "/project-one"
-
-      - label: "Project 2"
-        url: "/project-two"
-
-      - label: "Project Details"
-        url: "/project-details"
-
-      - label: "Team"
-        url: "/team"
-
-      - label: "Gallery"
-        url: "/gallery"
-
-      - label: "Pricing"
-        url: "/pricing"
-
-      - label: "FAQ"
-        url: "/faq"
-
-      - label: "404"
-        url: "/404"
-
-  - label: "Blog"
-    url: "#"
-    submenu:
-      - label: "Blog"
-        url: "/blog"
-
-      - label: "Blog Details"
-        url: "/complete-solution-for-your-land-and-garden-design"
-
-  - label: "Contact"
+  - label: "Kontakt"
     url: "/contact"
 
 button:
