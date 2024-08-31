@@ -3,7 +3,7 @@ service_one:
     heading: "Unsere Leistungen"
     description: "Warum Sie unsere Dienstleistungen <br> wählen sollten?"
   service1:
-    icon: "assets/images/service/landscape.png"
+    icon: "assets/images/service/hausmeisterservice-martin-altenkirchen-haustechnik-kontrolle.png"
     alt: "service icon"
     heading: "Haustechnik-Kontrolle"
     description: "Regelmäßige Überprüfung Ihrer technischen Anlagen und Systeme."
@@ -11,7 +11,7 @@ service_one:
       label: "Read More"
       link: "/service-details"
   service2:
-    icon: "assets/images/service/growing.png"
+    icon: "assets/images/service/hausmeisterservice-martin-altenkirchen-reparaturen.png"
     alt: "service icon"
     heading: "Kleine Reparaturen"
     description: "Schnelle und zuverlässige Durchführung von kleinen Reparaturen."
@@ -19,7 +19,7 @@ service_one:
       label: "Read More"
       link: "/service-details"
   service3:
-    icon: "assets/images/service/harvest.png"
+    icon: "assets/images/service/hausmeisterservice-martin-altenkirchen-betreuung-der-mieter.png"
     alt: "service icon"
     heading: "Betreuung der Mieter"
     description: "Persönliche Betreuung und Unterstützung Ihrer Mieter vor Ort."
@@ -27,7 +27,7 @@ service_one:
       label: "Read More"
       link: "/service-details"
   service4:
-    icon: "assets/images/service/flower.png"
+    icon: "assets/images/service/hausmeisterservice-martin-altenkirchen-schluesselnotdienst.png"
     alt: "service icon"
     heading: "Schlüsselnotdienst"
     description: "24/7 Notdienst für schnelle Hilfe bei Schlüssel- und Schlossproblemen."
@@ -35,7 +35,7 @@ service_one:
       label: "Read More"
       link: "/service-details"
   service5:
-    icon: "assets/images/service/tree.png"
+    icon: "assets/images/service/hausmeisterservice-martin-altenkirchen-muellentsorgung.png"
     alt: "service icon"
     heading: "Müllentsorgung"
     description: "Ordnungsgemäße und umweltfreundliche Entsorgung von Abfällen."
@@ -43,7 +43,7 @@ service_one:
       label: "Read More"
       link: "/service-details"
   service6:
-    icon: "assets/images/service/rubbish.png"
+    icon: "assets/images/service/hausmeisterservice-martin-altenkirchen-renovierungsarbeiten.png"
     alt: "service icon"
     heading: "Renovierungsarbeiten"
     description: "Professionelle Renovierung und Modernisierung Ihrer Immobilie."
@@ -58,24 +58,22 @@ service_one:
       link: "/contact"
 
 service_two:
-  image: "assets/images/service/2.jpg"
+  image: "assets/images/service/hausmeisterservice-martin-altenkirchen-leistungsmerkmale.jpg"
   subheading: "Services"
-  heading: "Our Best Landscape Specialists"
+  heading: "Leistungsmerkmale für unsere Hausmeisterdienste"
   button:
     label: "Termin vereinbaren"
     link: "/contact"
   feature1:
-    one: "These cases"
-    two: "We denounce"
-    three: "Nam libero"
-    four: "These cases"
-    five: "Pursue pleasure"
+    one: "Haustechnik-Wartung"
+    two: "Kleininstandsetzungen"
+    three: "Mieterbetreuung vor Ort"
+    four: "Abfallmanagement"
   feature2:
-    one: "These cases"
-    two: "We denounce"
-    three: "Nam libero"
-    four: "These cases"
-    five: "Pursue pleasure"
+    one: "24/7 Schlüsselnotdienst"
+    two: "Garten- und Landschaftspflege"
+    three: "Treppenhausreinigung"
+    four: "Renovierungsservice"
 
 service_three:
   section:
