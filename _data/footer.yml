@@ -154,7 +154,7 @@ footer_bottom:
     #   url: "/contact"
 
     - label: "Datenschutz"
-      url: "/impressum"
+      url: "/datenschutz"
 
     - label: "Impressum"
-      url: "/about"
+      url: "/impressum"
