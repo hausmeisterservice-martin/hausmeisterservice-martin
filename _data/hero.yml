@@ -3,7 +3,7 @@ hero_one:
   overlay_color: "black"
   opacity: 7
   heading: "Hausmeisterservice Martin – Qualität und Service für Ihre Immobilie"
-  description: "Ihr Partner für erstklassige Immobilienpflege und umfassende Dienstleistungen rund um Technik, Pflege und Reparaturen in Altenkirchen und Umgebung."
+  description: "Hausmeisterservice Martin – Qualität und Service für Ihre Immobilie. Wir sind Ihr Partner für erstklassige Immobilienpflege und umfassende Dienstleistungen rund um Technik, Pflege und Reparaturen in Altenkirchen und Umgebung. Unser engagiertes Team sorgt für zuverlässige Betreuung und nachhaltige Instandhaltung Ihrer Immobilie."
   button:
     label: "Kontakt aufnehmen"
     link: "/contact"
