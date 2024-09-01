@@ -9,7 +9,7 @@ title: Hausmeisterservice Martin Altenkirchen | Haustechnik, Reparaturen
 description: "Hausmeisterservice in Altenkirchen: Haustechnik, Reparaturen, Mieterbetreuung, Türschlosswechsel, Müllentsorgung, Renovierung, Schlüsselnotdienst."
 
 # Site base hostname & protocol, e.g. http://example.com
-url: ''
+url: "https://hausmeisterservice-martin-altenkirchen.de/"
 
 # Site subpath, e.g. /blog
 baseurl: ""
